@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey everyone! My name is Marcelo Mechi. I am a 24 year old Brazilian that is studying to become a front-end web developer. I always try to keep my code clean, commented and well organized. I am currently working on the essentials of HTML, CSS and JavaScript through the Udemy course entitled: The Web Developer Bootcamp 2022, by Colt Steele.<br>I am looking for an entry level job as a front-end web developer or an internsip. My main focus right now is JavaScript.
+Hey everyone! My name is Marcelo Mechi. I am a 24 year old Brazilian that is studying to become a front-end web developer. I always try to keep my code clean, commented and well organized. I am currently working on JavaScript through the Udemy course entitled: The Web Developer Bootcamp 2022, by Colt Steele.<br>I am looking for an entry level job as a front-end web developer or an internsip. 
 
 
 ## 🌐 Socials:
