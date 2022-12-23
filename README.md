@@ -16,14 +16,9 @@ Hey everyone! My name is Marcelo Mechi. I am a 24 year old Brazilian that is stu
   <a href="https://github.com/marcmechi98">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcmechi98&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcmechi98&layout=compact&langs_count=7&theme=dracula"/>
-  
 </div>
   
-<div align='center'>
-![](https://github-readme-stats.vercel.app/api?username=MarcMechi98&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcMechi98&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=MarcMechi98&theme=vue-dark&hide_border=false)<br/>
-  </div>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MarcMechi98&theme=vue-dark&hide_border=false)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/marcedumechi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcmechi98/) 
