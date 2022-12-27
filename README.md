@@ -18,8 +18,7 @@ Hey everyone! My name is Marcelo Mechi. I am a 24 year old Brazilian that is stu
   <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=marcmechi98&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcmechi98&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=marcmechi98&theme=dracula)](https://git.io/streak-stats)
-
+  
 ## 🌐 Socials:
 <div> 
   <a href="https://www.linkedin.com/in/marcmechi98" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
