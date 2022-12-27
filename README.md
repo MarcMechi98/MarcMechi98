@@ -13,11 +13,13 @@ Hey everyone! My name is Marcelo Mechi. I am a 24 year old Brazilian that is stu
 </p>
 
 # 📊 GitHub Stats:
-<div align="center">
+
   <a href="https://github.com/marcmechi98">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcmechi98&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+   <a href="https://github.com/marcmechi98">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcmechi98&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+   </a>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/marcedumechi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcmechi98/) 
