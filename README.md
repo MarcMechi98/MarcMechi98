@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey everyone! My name is Marcelo Mechi. I am a 24 year old Brazilian that is studying to become a frontend web developer. I always try to keep my code clean, commented and well organized. I am currently working on React JS.<br>Looking for an entry level position or internship as a front-end web developer. 
+Hey everyone! My name is Marcelo Mechi. I am a 24 year old Brazilian that is studying to become a frontend web developer. I always try to keep my code clean, commented and well organized. I am currently working on React.js.<br>Looking for an entry level position or internship as a front-end web developer. 
 
 # 💻 Tech Stack:
 <div align="left"> 
