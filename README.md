@@ -12,15 +12,8 @@ Hey everyone! My name is Marcelo Mechi, a 25-year-old Brazilian that is studying
   <img align="center" alt="Marcelo-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Marcelo-VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
-
-# 📊 GitHub Stats:
-<div align="center">
-  <a href="https://github.com/marcmechi98">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=marcmechi98&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcmechi98&layout=compact&langs_count=7&theme=dracula"/>
-</div>
   
-## 🌐 Socials:
+# 🌐 Socials:
 <div> 
   <a href="https://www.linkedin.com/in/marcmechi98" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/marcedumechi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
