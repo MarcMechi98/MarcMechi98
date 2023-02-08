@@ -1,9 +1,10 @@
 # 💫 About Me:
-My name is Marcelo Mechi and I am a 25-year-old future frontend web developer. React is my JavaScript framework of choice, and I am skilled in using Tailwind and Bootstrap for my CSS. I am open to work opportunities and eager to continue honing my skills in the field of web development. Check out my repositories to see some of my projects and feel free to connect with me!
+My name is Marcelo Mechi and I am a 25-year-old future frontend web developer. React is my JavaScript framework of choice, and I am skilled in using Tailwind and Bootstrap for my CSS. Check out my repositories to see some of my projects and feel free to connect with me!
 
 ## 📘 Currently studying:
 1. "The Web Web Developer Bootcamp 2023", by Colt Steele (Udemy)
 2. "Modern React with Redux", by Stephen Grider (Udemy)
+3. "The Modern Angular Bootcamp", by Stephen Grider (Udemy)
 
 ## 💻 Tech Stack:
 <div align="left"> 
@@ -16,7 +17,9 @@ My name is Marcelo Mechi and I am a 25-year-old future frontend web developer. R
   <img align="center" alt="Marcelo-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Marcelo-VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
-  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+   
 ## 🌐 Socials:
 <div> 
   <a href="https://www.linkedin.com/in/marcmechi98" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
