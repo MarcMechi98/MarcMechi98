@@ -1,6 +1,3 @@
-# 💫 About Me:
-My name is Marcelo Mechi and I am a 25-year-old future frontend web developer. React is my JavaScript framework of choice, and I am skilled in using Tailwind and Bootstrap for my CSS. Check out my repositories to see some of my projects and feel free to connect with me!
-
 ## 📘 Currently studying:
 1. "The Web Web Developer Bootcamp 2023", by Colt Steele (Udemy)
 2. "Modern React with Redux", by Stephen Grider (Udemy)
