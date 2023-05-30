@@ -1,3 +1,6 @@
+![dogdigitandoNAOAPAGAR](https://github.com/MarcMechi98/MarcMechi98/assets/109916950/289a37d2-6138-4be3-9771-d5bc9384f018)
+
+
 ## 📘 Currently studying:
 1. "The Web Web Developer Bootcamp 2023", by Colt Steele (Udemy)
 2. "Modern React with Redux", by Stephen Grider (Udemy)
