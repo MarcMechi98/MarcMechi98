@@ -2,8 +2,8 @@
 
 ## 📘 Currently studying:
 1. "The Web Web Developer Bootcamp 2023", by Colt Steele (Udemy)
-2. "Modern React with Redux", by Stephen Grider (Udemy)
-3. "The Modern Angular Bootcamp", by Stephen Grider (Udemy)
+2. "The Modern Angular Bootcamp", by Stephen Grider (Udemy)
+2. "Complete NodeJS Developer in 2023", by Andrei Neagoie and Adam Odziemkowski (Udemy)
 
 ## 💻 Tech Stack:
 <div align="center"> 
