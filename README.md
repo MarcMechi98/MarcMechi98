@@ -3,7 +3,7 @@
 ## 📘 Currently studying:
 1. "The Web Web Developer Bootcamp 2023", by Colt Steele (Udemy)
 2. "The Modern Angular Bootcamp", by Stephen Grider (Udemy)
-2. "Complete NodeJS Developer in 2023", by Andrei Neagoie and Adam Odziemkowski (Udemy)
+3. Jest and PostgreSQL
 
 ## 💻 Tech Stack:
 <div align="center"> 
