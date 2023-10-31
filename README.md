@@ -3,7 +3,7 @@
 ## 📘 Currently studying:
 1. "The Web Web Developer Bootcamp 2023", by Colt Steele (Udemy)
 2. "The Modern Angular Bootcamp", by Stephen Grider (Udemy)
-3. Jest and PostgreSQL
+3. Bootstrap and Tailwind CSS
 
 ## 💻 Tech Stack:
 <div align="center"> 
