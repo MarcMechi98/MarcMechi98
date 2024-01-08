@@ -1,9 +1,10 @@
 <img align="center" alt="Doggo typing" height="200" width="300" src="https://github.com/MarcMechi98/MarcMechi98/assets/109916950/289a37d2-6138-4be3-9771-d5bc9384f018" />
 
 ## 📘 Currently studying:
-1. "The Web Web Developer Bootcamp 2023", by Colt Steele (Udemy)
-2. "The Modern Angular Bootcamp", by Stephen Grider (Udemy)
+1. "The Modern Angular Bootcamp", by Stephen Grider (Udemy)
+2. Jest and Jasmine
 3. Bootstrap and Tailwind CSS
+4. Typescript
 
 ## 💻 Tech Stack:
 <div align="center"> 
