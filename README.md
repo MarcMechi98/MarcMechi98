@@ -1,9 +1,9 @@
 <img align="center" alt="Doggo typing" height="200" width="300" src="https://github.com/MarcMechi98/MarcMechi98/assets/109916950/289a37d2-6138-4be3-9771-d5bc9384f018" />
 
 ## 📘 Currently studying:
-1. "The Modern Angular Bootcamp", by Stephen Grider (Udemy)
+1. React and NextJs
 2. Jest and Jasmine
-3. Bootstrap and Tailwind CSS
+3. Tailwind CSS
 4. Typescript
 
 ## 💻 Tech Stack:
@@ -15,9 +15,11 @@
   <img align="center" alt="Marcelo-Typescript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Marcelo-Nodejs" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Marcelo-Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+  <img align="center" alt="Marcelo-Jest" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />      
+  <img align="center" alt="Marcelo-Jasmine" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jasmine/jasmine-original-wordmark.svg" />        
   <img align="center" alt="Marcelo-Graphql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
   <img align="center" alt="Marcelo-Postgresql" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="Marcelo-MongoDb" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"/>
+  <img align="center" alt="Marcelo-MongoDb" height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg"/>
   <img align="center" alt="Marcelo-Bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="Marcelo-Tailwind" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
   <img align="center" alt="Marcelo-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
